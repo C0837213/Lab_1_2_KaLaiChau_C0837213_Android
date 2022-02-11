@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_1_2_KaLaiChau_C0837213_Android</string>
+    <string name="search_hint">search_by_name</string>
+    <string name="app_label">lab_1_2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
